@@ -89,5 +89,5 @@ This project is prepared for educational purposes.
 
 ## Language Versions
 
-This README is available in both English and Turkish.  
-You can find the Turkish version in the `README_tr.md` file or request it if needed.
+This project is available in both English and Turkish.  
+You can find the Turkish version of the project in the `main-tr.md` file or request it if needed.
