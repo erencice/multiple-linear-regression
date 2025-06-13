@@ -1,4 +1,4 @@
-# Multiple Linear Regression Analysis: Predicting Sales Using TV and Radio
+# Multiple Linear Regression Analysis: Predicting Sales with Promotion Data
 
 This project aims to build and analyze a multiple linear regression model to predict sales (`Sales`) based on TV and Radio advertising budgets.
 
