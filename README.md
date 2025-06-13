@@ -63,7 +63,7 @@ This analysis investigates factors affecting sales and models the impact of TV a
 
 - Multiple Linear Regression (OLS)  
 - Ordinal Encoding of categorical variables  
-- $R^{2}$ analysis for explanatory power  
+- R² analysis for explanatory power  
 - p-value for coefficient significance  
 - Residual analysis and assumption validation
 
